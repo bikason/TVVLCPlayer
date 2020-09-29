@@ -648,6 +648,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.kodlian.TVVLCPlayer;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = 3;
@@ -678,6 +679,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.kodlian.TVVLCPlayer;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = 3;
